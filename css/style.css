@@ -69,7 +69,8 @@ background: radial-gradient(circle, rgba(114,112,148,1) 0%, rgba(156,94,170,1) 4
 }
 
 .cpu {
-	background: url('../images/cpu.png') no-repeat;
+	background:  url('../images/image5.png') no-repeat;
+	
 	background-size: cover;
 	width: 120px;
 	height: 120px;
