@@ -16,3 +16,9 @@ Round Robin Scheduling- If the execution of the process is completed during the 
 Priority- Processes with higher priority comes first. 
 
 Priority Preemptive- Regularly Updates the schedule, in which processes with higher priority comes first.
+
+Instructions to Run the Code:
+-> Download the zip file from the repository on Github.
+-> Extract the zip file.
+-> Open the folder in VS Code.
+-> Go to index.html file and run it on a local server or click live server extention on bottom pane down below.
