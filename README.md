@@ -3,19 +3,19 @@ This is a CPU scheduling algorithms visualizer which gives the comparison betwee
 Total 7 scheduling algorithms have been implemented including the preemptive versions of some of the algorithms.<br><br>
 Types of scheduling algorithms implemented:  
 
-First come first serve- Schedules the processes according to their arrival time.
+<b>First come first serve</b>- Schedules the processes according to their arrival time.
 
 <b>Shortest Job First</b>- Processes with shorter burst time comes first .
 
-Shortest Job First Preemptive- Regularly Updates the schedule, in which processes with shorter burst time comes first.
+<b>Shortest Job First Preemptive</b>- Regularly Updates the schedule, in which processes with shorter burst time comes first.
 
-Longest Job First- Processes with larger burst time comes first.
+<b>Longest Job First</b>- Processes with larger burst time comes first.
 
-Round Robin Scheduling- If the execution of the process is completed during the time-quantum then the process will end else the process will go back to the waiting table and wait for its next turn to complete the execution.
+<b>Round Robin Scheduling</b>- If the execution of the process is completed during the time-quantum then the process will end else the process will go back to the waiting table and wait for its next turn to complete the execution.
 
-Priority- Processes with higher priority comes first. 
+<b>Priority</b>- Processes with higher priority comes first. 
 
-Priority Preemptive- Regularly Updates the schedule, in which processes with higher priority comes first.
+<b>Priority Preemptive</b>- Regularly Updates the schedule, in which processes with higher priority comes first.
 
 Instructions to Run the Code:<br>
 -> Download the zip file from the repository on Github.<br>
