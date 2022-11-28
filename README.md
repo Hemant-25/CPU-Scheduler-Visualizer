@@ -5,7 +5,7 @@ Types of scheduling algorithms implemented:
 
 First come first serve- Schedules the processes according to their arrival time.
 
-Shortest Job First- Processes with shorter burst time comes first .
+<b>Shortest Job First</b>- Processes with shorter burst time comes first .
 
 Shortest Job First Preemptive- Regularly Updates the schedule, in which processes with shorter burst time comes first.
 
